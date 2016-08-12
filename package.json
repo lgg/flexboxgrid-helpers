@@ -4,7 +4,7 @@
   "description": "Helper classes for flexboxgrid",
   "main": "dist/flexboxgrid-helpers.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start-dev": "npm install && gulp"
   },
   "repository": {
     "type": "git",
