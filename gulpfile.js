@@ -7,7 +7,7 @@ var gulp = require('gulp'),
 
 /* Sources */
 var src_path = 'sources/';
-var src_stylus = src_path + 'css/**/*.styl';
+var src_stylus = src_path + '**/*.styl';
 
 /* Destination folder */
 var DEST = 'dist/';
@@ -38,7 +38,7 @@ gulp.task('reloadStylus', function () {
             cascade: false
         }))
         .pipe(concat("flexboxgrid-helpers.css"))
-        .pipe(gulp.dest(DEST + 'css'))
+        .pipe(gulp.dest(DEST))
 });
 
 //Build
@@ -51,5 +51,5 @@ gulp.task('buildStylus', function () {
         }))
         .pipe(cssmin())
         .pipe(concat("flexboxgrid-helpers.min.css"))
-        .pipe(gulp.dest(DEST + 'css'))
+        .pipe(gulp.dest(DEST))
 });
