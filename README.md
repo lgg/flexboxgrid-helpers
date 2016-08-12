@@ -2,9 +2,11 @@
 
 ## About
 
-Helper classes for [awesome flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid)
+* Helper classes for [awesome flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid)
 
-About classnames: i tried to follow BEM(block-element__modifier),
+* Last minified version could be found in `dist/flexboxgrid-helpers.min.css`
+
+* About classnames: i tried to follow BEM(block-element__modifier),
 but for compability with bootstrap classnames-style i changed visible/hidden classnames
 
 ## Classes:
