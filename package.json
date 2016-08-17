@@ -1,6 +1,6 @@
 {
   "name": "flexboxgrid-helpers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helper classes for flexboxgrid",
   "main": "dist/flexboxgrid-helpers.css",
   "scripts": {
