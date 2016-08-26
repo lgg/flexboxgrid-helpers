@@ -50,11 +50,11 @@ Group of classes          | Screen size
 
 Set block's content align to center
 
-Group of classes          | Behaviour
-------------              | -------------
-`.flex-center`            | Center on horizontal and vertical axes
-`.flex-center__x`         | Center on horizontal axe
-`.flex-center__y`         | Center on vertical axe
+Group of classes  | Behaviour                              | CSS rules
+------------      | -------------                          | ------------
+`.flex-center`    | Center on horizontal and vertical axes | both below
+`.flex-center__x` | Center on horizontal axe               | `justify-content: center`
+`.flex-center__y` | Center on vertical axe                 | `align-items: center`
 
 ## Installation
 
