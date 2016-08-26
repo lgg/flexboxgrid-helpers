@@ -46,6 +46,15 @@ Group of classes          | Screen size
 `.flex-column__md`        | Desktops (≥ 64em)
 `.flex-column__lg`        | Desktops (≥ 75em)
 
+### flex-center
+
+Set block's content align to center
+
+Group of classes          | Behaviour
+------------              | -------------
+`.flex-center`            | Center on horizontal and vertical axes
+`.flex-center__x`         | Center on horizontal axe
+`.flex-center__y`         | Center on vertical axe
 
 ## Installation
 
