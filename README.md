@@ -9,6 +9,12 @@
 * About classnames: i tried to follow BEM(block-element__modifier),
 but for compability with bootstrap classnames-style i changed visible/hidden classnames
 
+## Installation
+
+`npm i -S flexboxgrid-helpers`
+
+[npm page](https://www.npmjs.com/package/flexboxgrid-helpers)
+
 ## Classes:
 
 ### Visible & Hidden
@@ -55,12 +61,6 @@ Group of classes  | Behaviour                              | CSS rules
 `.flex-center`    | Center on horizontal and vertical axes | both below
 `.flex-center__x` | Center on horizontal axe               | `justify-content: center`
 `.flex-center__y` | Center on vertical axe                 | `align-items: center`
-
-## Installation
-
-`npm i -S flexboxgrid-helpers`
-
-[npm page](https://www.npmjs.com/package/flexboxgrid-helpers)
 
 ## License
 
