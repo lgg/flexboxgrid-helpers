@@ -63,4 +63,5 @@ Group of classes  | Behaviour                              | CSS rules
 [npm page](https://www.npmjs.com/package/flexboxgrid-helpers)
 
 ## License
+
 MIT
