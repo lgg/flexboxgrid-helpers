@@ -2,7 +2,7 @@
   "name": "flexboxgrid-helpers",
   "version": "1.1.2",
   "description": "Helper classes for flexboxgrid",
-  "main": "dist/flexboxgrid-helpers.css",
+  "main": "dist/flexboxgrid-helpers.min.css",
   "scripts": {
     "start-dev": "npm install && gulp"
   },
